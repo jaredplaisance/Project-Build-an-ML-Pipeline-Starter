@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a19fee73a9e84f2faa476426eb25cf18/artifacts
+end_time: 1712101176936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a19fee73a9e84f2faa476426eb25cf18
+run_name: beautiful-fly-91
+run_uuid: a19fee73a9e84f2faa476426eb25cf18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712101094490
+status: 3
+tags: []
+user_id: jcp

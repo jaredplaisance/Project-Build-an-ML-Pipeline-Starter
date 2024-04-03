@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab584ba2ab5d49a1ae26b0939bd85282/artifacts
+end_time: 1712110276632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab584ba2ab5d49a1ae26b0939bd85282
+run_name: calm-cub-941
+run_uuid: ab584ba2ab5d49a1ae26b0939bd85282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712110043174
+status: 3
+tags: []
+user_id: jcp

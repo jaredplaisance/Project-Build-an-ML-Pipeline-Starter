@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cca0684e113c4c6b9aea4e63371a936d/artifacts
+end_time: 1712110276429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cca0684e113c4c6b9aea4e63371a936d
+run_name: crawling-swan-735
+run_uuid: cca0684e113c4c6b9aea4e63371a936d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712110193937
+status: 3
+tags: []
+user_id: jcp

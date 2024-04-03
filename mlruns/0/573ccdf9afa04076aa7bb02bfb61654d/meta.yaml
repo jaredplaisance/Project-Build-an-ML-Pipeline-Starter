@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/573ccdf9afa04076aa7bb02bfb61654d/artifacts
+end_time: 1711774937255
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 573ccdf9afa04076aa7bb02bfb61654d
+run_name: bald-stoat-729
+run_uuid: 573ccdf9afa04076aa7bb02bfb61654d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711774936018
+status: 4
+tags: []
+user_id: jcp

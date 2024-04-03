@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a8298b5ac3214428a123e9404c7c8888/artifacts
+end_time: 1711771147732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8298b5ac3214428a123e9404c7c8888
+run_name: placid-duck-705
+run_uuid: a8298b5ac3214428a123e9404c7c8888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711771146442
+status: 4
+tags: []
+user_id: jcp

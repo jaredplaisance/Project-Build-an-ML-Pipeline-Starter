@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1033cf3eb20450da5f29304d61b1c46/artifacts
+end_time: 1711774596992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1033cf3eb20450da5f29304d61b1c46
+run_name: bright-bird-110
+run_uuid: d1033cf3eb20450da5f29304d61b1c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711774595596
+status: 4
+tags: []
+user_id: jcp

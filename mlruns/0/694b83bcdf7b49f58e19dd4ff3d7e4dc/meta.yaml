@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/694b83bcdf7b49f58e19dd4ff3d7e4dc/artifacts
+end_time: 1712098583344
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 694b83bcdf7b49f58e19dd4ff3d7e4dc
+run_name: blushing-wasp-548
+run_uuid: 694b83bcdf7b49f58e19dd4ff3d7e4dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712098582088
+status: 4
+tags: []
+user_id: jcp

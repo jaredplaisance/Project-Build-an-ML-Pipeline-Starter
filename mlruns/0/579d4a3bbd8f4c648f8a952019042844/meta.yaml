@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/579d4a3bbd8f4c648f8a952019042844/artifacts
+end_time: 1712110084938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 579d4a3bbd8f4c648f8a952019042844
+run_name: fearless-horse-878
+run_uuid: 579d4a3bbd8f4c648f8a952019042844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712110047416
+status: 3
+tags: []
+user_id: jcp

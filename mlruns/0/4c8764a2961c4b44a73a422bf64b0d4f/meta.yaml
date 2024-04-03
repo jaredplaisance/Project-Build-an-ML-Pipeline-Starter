@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4c8764a2961c4b44a73a422bf64b0d4f/artifacts
+end_time: 1711768611649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c8764a2961c4b44a73a422bf64b0d4f
+run_name: melodic-turtle-758
+run_uuid: 4c8764a2961c4b44a73a422bf64b0d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711768436832
+status: 3
+tags: []
+user_id: jcp

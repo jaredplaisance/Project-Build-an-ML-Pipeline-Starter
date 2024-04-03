@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9b03d40d2b60405da55fabe4db229cde/artifacts
+end_time: 1712097645228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b03d40d2b60405da55fabe4db229cde
+run_name: enthused-gnu-853
+run_uuid: 9b03d40d2b60405da55fabe4db229cde
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712097639710
+status: 4
+tags: []
+user_id: jcp

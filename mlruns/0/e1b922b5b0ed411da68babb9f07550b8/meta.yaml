@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e1b922b5b0ed411da68babb9f07550b8/artifacts
+end_time: 1711766185477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1b922b5b0ed411da68babb9f07550b8
+run_name: marvelous-hound-741
+run_uuid: e1b922b5b0ed411da68babb9f07550b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711766182954
+status: 4
+tags: []
+user_id: jcp

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/233c576567ee41239c95d6f1494b640c/artifacts
+end_time: 1711766235999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 233c576567ee41239c95d6f1494b640c
+run_name: illustrious-sheep-17
+run_uuid: 233c576567ee41239c95d6f1494b640c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711766233492
+status: 4
+tags: []
+user_id: jcp

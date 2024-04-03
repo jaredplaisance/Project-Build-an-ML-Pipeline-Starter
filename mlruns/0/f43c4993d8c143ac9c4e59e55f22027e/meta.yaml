@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f43c4993d8c143ac9c4e59e55f22027e/artifacts
+end_time: 1711772493074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f43c4993d8c143ac9c4e59e55f22027e
+run_name: bald-mole-586
+run_uuid: f43c4993d8c143ac9c4e59e55f22027e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711772368205
+status: 4
+tags: []
+user_id: jcp

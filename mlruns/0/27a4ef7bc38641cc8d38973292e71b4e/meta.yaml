@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/27a4ef7bc38641cc8d38973292e71b4e/artifacts
+end_time: 1711775313930
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27a4ef7bc38641cc8d38973292e71b4e
+run_name: suave-frog-728
+run_uuid: 27a4ef7bc38641cc8d38973292e71b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711775312701
+status: 4
+tags: []
+user_id: jcp

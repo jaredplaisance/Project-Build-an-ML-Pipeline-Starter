@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5f967a7a22c94d82ba96a8d8f4eab7fa/artifacts
+end_time: 1711774597228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f967a7a22c94d82ba96a8d8f4eab7fa
+run_name: capable-shrimp-414
+run_uuid: 5f967a7a22c94d82ba96a8d8f4eab7fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711774591965
+status: 4
+tags: []
+user_id: jcp

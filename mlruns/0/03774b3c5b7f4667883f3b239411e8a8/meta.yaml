@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/03774b3c5b7f4667883f3b239411e8a8/artifacts
+end_time: 1711760645932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03774b3c5b7f4667883f3b239411e8a8
+run_name: classy-kit-615
+run_uuid: 03774b3c5b7f4667883f3b239411e8a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711760555185
+status: 3
+tags: []
+user_id: jcp

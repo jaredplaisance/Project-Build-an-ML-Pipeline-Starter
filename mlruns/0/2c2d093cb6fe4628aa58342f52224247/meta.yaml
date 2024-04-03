@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2c2d093cb6fe4628aa58342f52224247/artifacts
+end_time: 1712100986899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c2d093cb6fe4628aa58342f52224247
+run_name: valuable-carp-426
+run_uuid: 2c2d093cb6fe4628aa58342f52224247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712100947068
+status: 3
+tags: []
+user_id: jcp

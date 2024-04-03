@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e000b0ca454443b4bd85572ce6f91a68/artifacts
+end_time: 1711760646136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e000b0ca454443b4bd85572ce6f91a68
+run_name: powerful-elk-69
+run_uuid: e000b0ca454443b4bd85572ce6f91a68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711760471352
+status: 3
+tags: []
+user_id: jcp

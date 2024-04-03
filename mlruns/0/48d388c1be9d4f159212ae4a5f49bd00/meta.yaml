@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48d388c1be9d4f159212ae4a5f49bd00/artifacts
+end_time: 1711771602058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48d388c1be9d4f159212ae4a5f49bd00
+run_name: loud-cod-543
+run_uuid: 48d388c1be9d4f159212ae4a5f49bd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711771597379
+status: 4
+tags: []
+user_id: jcp

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/96c30ab8a9b748c18b38ef7d4b8c45c1/artifacts
+end_time: 1711772493315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96c30ab8a9b748c18b38ef7d4b8c45c1
+run_name: spiffy-snail-676
+run_uuid: 96c30ab8a9b748c18b38ef7d4b8c45c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711772365479
+status: 4
+tags: []
+user_id: jcp

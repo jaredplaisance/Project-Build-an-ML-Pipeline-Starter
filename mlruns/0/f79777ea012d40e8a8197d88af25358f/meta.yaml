@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f79777ea012d40e8a8197d88af25358f/artifacts
+end_time: 1711768611839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f79777ea012d40e8a8197d88af25358f
+run_name: powerful-dove-400
+run_uuid: f79777ea012d40e8a8197d88af25358f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711768432002
+status: 3
+tags: []
+user_id: jcp

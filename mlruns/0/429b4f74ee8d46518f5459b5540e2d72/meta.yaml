@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/429b4f74ee8d46518f5459b5540e2d72/artifacts
+end_time: 1712110193769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 429b4f74ee8d46518f5459b5540e2d72
+run_name: delightful-mouse-120
+run_uuid: 429b4f74ee8d46518f5459b5540e2d72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712110139977
+status: 3
+tags: []
+user_id: jcp

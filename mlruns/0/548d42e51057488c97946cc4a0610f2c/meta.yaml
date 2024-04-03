@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/548d42e51057488c97946cc4a0610f2c/artifacts
+end_time: 1711764649279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 548d42e51057488c97946cc4a0610f2c
+run_name: aged-gull-282
+run_uuid: 548d42e51057488c97946cc4a0610f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711764604651
+status: 3
+tags: []
+user_id: jcp

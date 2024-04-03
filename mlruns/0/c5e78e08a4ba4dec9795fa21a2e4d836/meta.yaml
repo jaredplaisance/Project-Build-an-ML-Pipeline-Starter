@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c5e78e08a4ba4dec9795fa21a2e4d836/artifacts
+end_time: 1712101177136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5e78e08a4ba4dec9795fa21a2e4d836
+run_name: dashing-auk-315
+run_uuid: c5e78e08a4ba4dec9795fa21a2e4d836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712100944216
+status: 3
+tags: []
+user_id: jcp

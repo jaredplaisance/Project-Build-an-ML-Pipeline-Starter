@@ -1,0 +1,118 @@
+{
+    "os": "Linux-5.15.146.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-03-30T02:10:36.456473",
+    "startedAt": "2024-03-30T02:10:35.902412",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/jcp/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/jaredplaisance/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/jcp/Project-Build-an-ML-Pipeline-Starter",
+    "host": "JCP-PC",
+    "username": "jcp",
+    "executable": "/home/jcp/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3695.9970000000008,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3695.997,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 13.991874694824219
+    },
+    "gpu": "NVIDIA GeForce GTX 1080 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1080 Ti",
+            "memory_total": 11811160064
+        }
+    ],
+    "memory": {
+        "total": 7.723869323730469
+    }
+}

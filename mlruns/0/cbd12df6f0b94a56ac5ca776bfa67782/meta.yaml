@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jcp/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cbd12df6f0b94a56ac5ca776bfa67782/artifacts
+end_time: 1711775314157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbd12df6f0b94a56ac5ca776bfa67782
+run_name: victorious-hound-162
+run_uuid: cbd12df6f0b94a56ac5ca776bfa67782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711775309973
+status: 4
+tags: []
+user_id: jcp
