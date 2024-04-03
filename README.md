@@ -1,5 +1,5 @@
 W&B Profile Link: https://wandb.ai/jcplai
-GitHub Profile Link: https://github.com/jaredplaisance
+GitHub Project Link: https://github.com/jaredplaisance/Project-Build-an-ML-Pipeline-Starter
 
 
 
